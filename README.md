@@ -114,9 +114,9 @@ Modular – Easily extend with auto-resume tracker or interview scheduler
 
 Showcases Tech Initiative – Demonstrates hands-on problem-solving and smart productivity
 
----
+
 🧩 This project reflects a modern job seeker’s mindset — organized, proactive, and driven by automation. It aligns with SEEK’s focus on meaningful tech solutions, user empowerment, and real-world impact.
---- 
+
 
 📎 Explore the Demo File
 View a functional version of the project or download it here:
